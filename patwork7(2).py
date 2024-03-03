@@ -11,5 +11,5 @@ def read_file(filename):
 
 if __name__ == "__main__":
     # Example usage: provide the name of the text file you want to read
-    file_to_read = input("Enter the name of the text file to read: ")
+    file_to_read =("E:\keerthi PAT file.txt")
     read_file(file_to_read)
