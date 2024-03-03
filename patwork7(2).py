@@ -1,6 +1,6 @@
 def read_file(filename):
     try:
-        with open(file_name, 'r') as file:
+        with open(filename, 'r') as file:
             content = file.read()
             print(f"Content of file '{"E:\keerthi PAT file.txt"}':\n")
             print(content)
